@@ -1,0 +1,8 @@
+.nav-tab {
+  background-color: lightgreen;
+  border-style: solid;
+}
+
+a:hover {
+  color: red;
+}
